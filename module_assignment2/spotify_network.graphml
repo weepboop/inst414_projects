@@ -1,0 +1,546 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="long"/>
+<graph edgedefault="undirected"><node id="Zach Bryan"/>
+<node id="The War And Treaty"/>
+<node id="Kacey Musgraves"/>
+<node id="The Lumineers"/>
+<node id="Morgan Wallen"/>
+<node id="ERNEST"/>
+<node id="Diplo"/>
+<node id="Post Malone"/>
+<node id="Luke Combs"/>
+<node id="Chris Stapleton"/>
+<node id="Jelly Roll"/>
+<node id="mgk"/>
+<node id="Falling In Reverse"/>
+<node id="Jessie Murph"/>
+<node id="Eminem"/>
+<node id="Lainey Wilson"/>
+<node id="Tyler Childers"/>
+<node id="OurVinyl"/>
+<node id="Shaboozey"/>
+<node id="Beyoncé"/>
+<node id="Linda Martell"/>
+<node id="BigXthaPlug"/>
+<node id="Noah Cyrus"/>
+<node id="Duckwrth"/>
+<node id="David Guetta"/>
+<node id="Paul Cauthen"/>
+<node id="Cody Johnson"/>
+<node id="Carrie Underwood"/>
+<node id="Noah Kahan"/>
+<node id="HARDY"/>
+<node id="Devin Dawson"/>
+<node id="Lauren Alaina"/>
+<node id="HIXTAPE"/>
+<node id="Zakk Wylde"/>
+<node id="Bailey Zimmerman"/>
+<node id="Koe Wetzel"/>
+<node id="Riley Green"/>
+<node id="Ella Langley"/>
+<node id="Jason Aldean"/>
+<node id="Teddy Swims"/>
+<node id="Polo G"/>
+<node id="Kane Brown"/>
+<node id="Swae Lee"/>
+<node id="Khalid"/>
+<node id="Marshmello"/>
+<node id="Chris Young"/>
+<node id="Katelyn Brown"/>
+<node id="Thomas Rhett"/>
+<node id="Jon Pardi"/>
+<node id="Jordan Davis"/>
+<node id="Luke Bryan"/>
+<node id="NEEDTOBREATHE"/>
+<node id="Tim McGraw"/>
+<node id="Nelly"/>
+<node id="Taylor Swift"/>
+<node id="Keith Urban"/>
+<node id="Eric Church"/>
+<node id="Emmylou Harris"/>
+<node id="The Avett Brothers"/>
+<node id="Nathaniel Rateliff"/>
+<node id="Sheryl Crow"/>
+<node id="Kris Kristofferson"/>
+<node id="Derek Trucks"/>
+<node id="Lukas Nelson"/>
+<node id="Jamey Johnson"/>
+<node id="Jack Johnson"/>
+<node id="Dave Matthews"/>
+<node id="Jimmy Buffett"/>
+<node id="Willie Nelson"/>
+<node id="Lee Ann Womack"/>
+<node id="George Strait"/>
+<node id="Margo Price"/>
+<node id="Lyle Lovett"/>
+<node id="Micah Nelson"/>
+<node id="Bobby Bare"/>
+<node id="Kenny Chesney"/>
+<node id="Grace Potter"/>
+<node id="Kelsea Ballerini"/>
+<node id="Uncle Kracker"/>
+<node id="Toby Keith"/>
+<node id="Zac Brown Band"/>
+<node id="Alan Jackson"/>
+<node id="Florida Georgia Line"/>
+<node id="Bebe Rexha"/>
+<node id="Johnny Cash"/>
+<node id="Waylon Jennings"/>
+<node id="Bob Dylan"/>
+<node id="The Tennessee Two"/>
+<node id="The Highwaymen"/>
+<node id="June Carter Cash"/>
+<node id="Blake Shelton"/>
+<node id="Gwen Stefani"/>
+<node id="Pistol Annies"/>
+<node id="Brooks &amp; Dunn"/>
+<node id="Old Dominion"/>
+<node id="Megan Moroney"/>
+<node id="Miranda Lambert"/>
+<node id="Elle King"/>
+<node id="Parker McCollum"/>
+<node id="Dolly Parton"/>
+<node id="Pitbull"/>
+<node id="Zach Williams"/>
+<node id="Kenny Rogers"/>
+<node id="Papa Roach"/>
+<node id="Ludacris"/>
+<node id="Adrianne Lenker"/>
+<node id="Buck Meek"/>
+<node id="Tucker Wetmore"/>
+<node id="Conner Smith"/>
+<node id="Merle Haggard"/>
+<node id="Dylan Scott"/>
+<node id="Dylan Marlowe"/>
+<node id="Nate Smith"/>
+<node id="Avril Lavigne"/>
+<node id="Alesso"/>
+<node id="Lee Brice"/>
+<node id="Carly Pearce"/>
+<edge source="Zach Bryan" target="The War And Treaty">
+  <data key="d0">1</data>
+</edge>
+<edge source="Zach Bryan" target="Kacey Musgraves">
+  <data key="d0">2</data>
+</edge>
+<edge source="Zach Bryan" target="The Lumineers">
+  <data key="d0">1</data>
+</edge>
+<edge source="Kacey Musgraves" target="Noah Kahan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Morgan Wallen" target="ERNEST">
+  <data key="d0">2</data>
+</edge>
+<edge source="Morgan Wallen" target="Diplo">
+  <data key="d0">1</data>
+</edge>
+<edge source="Morgan Wallen" target="Post Malone">
+  <data key="d0">1</data>
+</edge>
+<edge source="Morgan Wallen" target="HARDY">
+  <data key="d0">1</data>
+</edge>
+<edge source="Morgan Wallen" target="Thomas Rhett">
+  <data key="d0">1</data>
+</edge>
+<edge source="Morgan Wallen" target="Eric Church">
+  <data key="d0">1</data>
+</edge>
+<edge source="Morgan Wallen" target="Florida Georgia Line">
+  <data key="d0">1</data>
+</edge>
+<edge source="ERNEST" target="Post Malone">
+  <data key="d0">1</data>
+</edge>
+<edge source="ERNEST" target="Lainey Wilson">
+  <data key="d0">1</data>
+</edge>
+<edge source="ERNEST" target="Diplo">
+  <data key="d0">1</data>
+</edge>
+<edge source="ERNEST" target="Jelly Roll">
+  <data key="d0">1</data>
+</edge>
+<edge source="Diplo" target="Jessie Murph">
+  <data key="d0">1</data>
+</edge>
+<edge source="Post Malone" target="Luke Combs">
+  <data key="d0">1</data>
+</edge>
+<edge source="Post Malone" target="Chris Stapleton">
+  <data key="d0">1</data>
+</edge>
+<edge source="Post Malone" target="Jelly Roll">
+  <data key="d0">1</data>
+</edge>
+<edge source="Post Malone" target="Lainey Wilson">
+  <data key="d0">1</data>
+</edge>
+<edge source="Post Malone" target="HARDY">
+  <data key="d0">1</data>
+</edge>
+<edge source="Post Malone" target="Tim McGraw">
+  <data key="d0">1</data>
+</edge>
+<edge source="Post Malone" target="Blake Shelton">
+  <data key="d0">1</data>
+</edge>
+<edge source="Post Malone" target="Dolly Parton">
+  <data key="d0">1</data>
+</edge>
+<edge source="Luke Combs" target="Riley Green">
+  <data key="d0">1</data>
+</edge>
+<edge source="Luke Combs" target="Brooks &amp; Dunn">
+  <data key="d0">1</data>
+</edge>
+<edge source="Luke Combs" target="Miranda Lambert">
+  <data key="d0">1</data>
+</edge>
+<edge source="Chris Stapleton" target="Eric Church">
+  <data key="d0">1</data>
+</edge>
+<edge source="Chris Stapleton" target="Willie Nelson">
+  <data key="d0">1</data>
+</edge>
+<edge source="Jelly Roll" target="mgk">
+  <data key="d0">1</data>
+</edge>
+<edge source="Jelly Roll" target="Falling In Reverse">
+  <data key="d0">1</data>
+</edge>
+<edge source="Jelly Roll" target="Jessie Murph">
+  <data key="d0">2</data>
+</edge>
+<edge source="Jelly Roll" target="Eminem">
+  <data key="d0">1</data>
+</edge>
+<edge source="Jelly Roll" target="Lainey Wilson">
+  <data key="d0">2</data>
+</edge>
+<edge source="Jessie Murph" target="Bailey Zimmerman">
+  <data key="d0">2</data>
+</edge>
+<edge source="Jessie Murph" target="Koe Wetzel">
+  <data key="d0">2</data>
+</edge>
+<edge source="Jessie Murph" target="Teddy Swims">
+  <data key="d0">1</data>
+</edge>
+<edge source="Jessie Murph" target="Polo G">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lainey Wilson" target="HARDY">
+  <data key="d0">2</data>
+</edge>
+<edge source="Lainey Wilson" target="Miranda Lambert">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tyler Childers" target="OurVinyl">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shaboozey" target="Beyoncé">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shaboozey" target="Linda Martell">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shaboozey" target="BigXthaPlug">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shaboozey" target="Noah Cyrus">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shaboozey" target="Duckwrth">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shaboozey" target="David Guetta">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shaboozey" target="Paul Cauthen">
+  <data key="d0">1</data>
+</edge>
+<edge source="Beyoncé" target="Dolly Parton">
+  <data key="d0">1</data>
+</edge>
+<edge source="Cody Johnson" target="Carrie Underwood">
+  <data key="d0">2</data>
+</edge>
+<edge source="Carrie Underwood" target="Jason Aldean">
+  <data key="d0">2</data>
+</edge>
+<edge source="Carrie Underwood" target="Miranda Lambert">
+  <data key="d0">1</data>
+</edge>
+<edge source="Carrie Underwood" target="Papa Roach">
+  <data key="d0">1</data>
+</edge>
+<edge source="Carrie Underwood" target="Ludacris">
+  <data key="d0">1</data>
+</edge>
+<edge source="HARDY" target="Devin Dawson">
+  <data key="d0">1</data>
+</edge>
+<edge source="HARDY" target="Lauren Alaina">
+  <data key="d0">1</data>
+</edge>
+<edge source="HARDY" target="HIXTAPE">
+  <data key="d0">1</data>
+</edge>
+<edge source="HARDY" target="Zakk Wylde">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lauren Alaina" target="Kane Brown">
+  <data key="d0">1</data>
+</edge>
+<edge source="Riley Green" target="Ella Langley">
+  <data key="d0">1</data>
+</edge>
+<edge source="Riley Green" target="Thomas Rhett">
+  <data key="d0">1</data>
+</edge>
+<edge source="Kane Brown" target="Swae Lee">
+  <data key="d0">1</data>
+</edge>
+<edge source="Kane Brown" target="Khalid">
+  <data key="d0">1</data>
+</edge>
+<edge source="Kane Brown" target="Marshmello">
+  <data key="d0">1</data>
+</edge>
+<edge source="Kane Brown" target="Chris Young">
+  <data key="d0">1</data>
+</edge>
+<edge source="Kane Brown" target="Katelyn Brown">
+  <data key="d0">1</data>
+</edge>
+<edge source="Thomas Rhett" target="Jon Pardi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Jordan Davis" target="Luke Bryan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Jordan Davis" target="NEEDTOBREATHE">
+  <data key="d0">1</data>
+</edge>
+<edge source="Luke Bryan" target="Florida Georgia Line">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tim McGraw" target="Nelly">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tim McGraw" target="Taylor Swift">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tim McGraw" target="Keith Urban">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tim McGraw" target="Florida Georgia Line">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nelly" target="Florida Georgia Line">
+  <data key="d0">1</data>
+</edge>
+<edge source="Eric Church" target="Emmylou Harris">
+  <data key="d0">1</data>
+</edge>
+<edge source="Eric Church" target="The Avett Brothers">
+  <data key="d0">1</data>
+</edge>
+<edge source="Eric Church" target="Nathaniel Rateliff">
+  <data key="d0">1</data>
+</edge>
+<edge source="Eric Church" target="Sheryl Crow">
+  <data key="d0">1</data>
+</edge>
+<edge source="Eric Church" target="Kris Kristofferson">
+  <data key="d0">1</data>
+</edge>
+<edge source="Eric Church" target="Derek Trucks">
+  <data key="d0">1</data>
+</edge>
+<edge source="Eric Church" target="Lukas Nelson">
+  <data key="d0">1</data>
+</edge>
+<edge source="Eric Church" target="Jamey Johnson">
+  <data key="d0">1</data>
+</edge>
+<edge source="Eric Church" target="Jack Johnson">
+  <data key="d0">1</data>
+</edge>
+<edge source="Eric Church" target="Dave Matthews">
+  <data key="d0">1</data>
+</edge>
+<edge source="Eric Church" target="Jimmy Buffett">
+  <data key="d0">1</data>
+</edge>
+<edge source="Eric Church" target="Willie Nelson">
+  <data key="d0">2</data>
+</edge>
+<edge source="Eric Church" target="Lee Ann Womack">
+  <data key="d0">1</data>
+</edge>
+<edge source="Eric Church" target="George Strait">
+  <data key="d0">1</data>
+</edge>
+<edge source="Eric Church" target="Margo Price">
+  <data key="d0">1</data>
+</edge>
+<edge source="Eric Church" target="Lyle Lovett">
+  <data key="d0">1</data>
+</edge>
+<edge source="Eric Church" target="Micah Nelson">
+  <data key="d0">1</data>
+</edge>
+<edge source="Eric Church" target="Bobby Bare">
+  <data key="d0">1</data>
+</edge>
+<edge source="Emmylou Harris" target="Willie Nelson">
+  <data key="d0">1</data>
+</edge>
+<edge source="The Avett Brothers" target="Willie Nelson">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nathaniel Rateliff" target="Willie Nelson">
+  <data key="d0">1</data>
+</edge>
+<edge source="Sheryl Crow" target="Willie Nelson">
+  <data key="d0">1</data>
+</edge>
+<edge source="Kris Kristofferson" target="Johnny Cash">
+  <data key="d0">1</data>
+</edge>
+<edge source="Kris Kristofferson" target="Willie Nelson">
+  <data key="d0">1</data>
+</edge>
+<edge source="Derek Trucks" target="Willie Nelson">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lukas Nelson" target="Willie Nelson">
+  <data key="d0">1</data>
+</edge>
+<edge source="Jamey Johnson" target="Willie Nelson">
+  <data key="d0">1</data>
+</edge>
+<edge source="Jack Johnson" target="Willie Nelson">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dave Matthews" target="Willie Nelson">
+  <data key="d0">1</data>
+</edge>
+<edge source="Jimmy Buffett" target="Zac Brown Band">
+  <data key="d0">1</data>
+</edge>
+<edge source="Jimmy Buffett" target="Alan Jackson">
+  <data key="d0">1</data>
+</edge>
+<edge source="Jimmy Buffett" target="Willie Nelson">
+  <data key="d0">1</data>
+</edge>
+<edge source="Willie Nelson" target="Toby Keith">
+  <data key="d0">2</data>
+</edge>
+<edge source="Willie Nelson" target="Johnny Cash">
+  <data key="d0">2</data>
+</edge>
+<edge source="Willie Nelson" target="Waylon Jennings">
+  <data key="d0">1</data>
+</edge>
+<edge source="Willie Nelson" target="The Highwaymen">
+  <data key="d0">1</data>
+</edge>
+<edge source="Willie Nelson" target="Lee Ann Womack">
+  <data key="d0">1</data>
+</edge>
+<edge source="Willie Nelson" target="George Strait">
+  <data key="d0">1</data>
+</edge>
+<edge source="Willie Nelson" target="Margo Price">
+  <data key="d0">1</data>
+</edge>
+<edge source="Willie Nelson" target="Lyle Lovett">
+  <data key="d0">1</data>
+</edge>
+<edge source="Willie Nelson" target="Micah Nelson">
+  <data key="d0">1</data>
+</edge>
+<edge source="Willie Nelson" target="Bobby Bare">
+  <data key="d0">1</data>
+</edge>
+<edge source="Willie Nelson" target="Merle Haggard">
+  <data key="d0">1</data>
+</edge>
+<edge source="Kenny Chesney" target="Grace Potter">
+  <data key="d0">1</data>
+</edge>
+<edge source="Kenny Chesney" target="Kelsea Ballerini">
+  <data key="d0">1</data>
+</edge>
+<edge source="Kenny Chesney" target="Uncle Kracker">
+  <data key="d0">1</data>
+</edge>
+<edge source="Zac Brown Band" target="Alan Jackson">
+  <data key="d0">1</data>
+</edge>
+<edge source="Florida Georgia Line" target="Bebe Rexha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Johnny Cash" target="Waylon Jennings">
+  <data key="d0">1</data>
+</edge>
+<edge source="Johnny Cash" target="Bob Dylan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Johnny Cash" target="The Tennessee Two">
+  <data key="d0">1</data>
+</edge>
+<edge source="Johnny Cash" target="The Highwaymen">
+  <data key="d0">1</data>
+</edge>
+<edge source="Johnny Cash" target="June Carter Cash">
+  <data key="d0">1</data>
+</edge>
+<edge source="Blake Shelton" target="Gwen Stefani">
+  <data key="d0">1</data>
+</edge>
+<edge source="Blake Shelton" target="Pistol Annies">
+  <data key="d0">1</data>
+</edge>
+<edge source="Old Dominion" target="Megan Moroney">
+  <data key="d0">1</data>
+</edge>
+<edge source="Miranda Lambert" target="Elle King">
+  <data key="d0">1</data>
+</edge>
+<edge source="Miranda Lambert" target="Parker McCollum">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dolly Parton" target="Pitbull">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dolly Parton" target="Zach Williams">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dolly Parton" target="Kenny Rogers">
+  <data key="d0">1</data>
+</edge>
+<edge source="Adrianne Lenker" target="Buck Meek">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tucker Wetmore" target="Conner Smith">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dylan Scott" target="Dylan Marlowe">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nate Smith" target="Avril Lavigne">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nate Smith" target="Alesso">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lee Brice" target="Carly Pearce">
+  <data key="d0">1</data>
+</edge>
+</graph></graphml>
